@@ -43,7 +43,7 @@ No installation required! Simply open the HTML file in any modern web browser.
 
 ```bash
 # Clone or download the game file
-# Open snack_snatch_game.html in your browser
+# Open index.html in your browser
 ```
 
 ### System Requirements
@@ -79,7 +79,7 @@ Guide your chosen penguin agent through each level to reach the fish while avoid
 
 ```
 snack-snatch/
-├── snack_snatch_game.html          # Main game file
+├── index.html                      # Main game file
 ├── README.md                       # This documentation
 ├── whitepaper.md                   # Technical analysis
 ├── LICENSE                         # MIT License information
